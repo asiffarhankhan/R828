@@ -1,4 +1,4 @@
-r828 
+R828 [Anagram, Re(8)tw(2)eet(8)] 
 
 A twitter project that utilises twitter API to select and delete all the retweets among the ocean of all your tweets.
 

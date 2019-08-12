@@ -1,7 +1,7 @@
-#Adding authentication details into variables
+#Update the following variables by providing the authentication details below
 
-API_key = 'dTyR2cQEkggsGyo4fcvasG623'
-API_secret = 'WASB9eezfLWJOhRBRurIuDz6aJP0ScWhomcHlfFefogWzJlfh6'
+API_key = 'XXXXXXXXXXXXXXXXXXXXXXXX'
+API_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
-token = '466163270-D45FydYPv5d9ki0OdG8IUANerKmsoQ4UPV1wn5y1'
-token_secret = 'Hjho9TOlKdBVfRsET7Vw3Nr5GRJ39q1eZ0CPmnjIWtQ5G'
+token = 'XXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'

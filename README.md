@@ -10,7 +10,7 @@ Why not ? What tier of minimal freak wouldn't kill to toss all the retweets down
 
 ## REQUIREMENTS
 
-* Python 3.6
+* Python 3.6 or above
 
 ## WORKING
 
